@@ -2,4 +2,3 @@ ipykernel
 pandas
 pytest
 scikit-learn
-numpy
